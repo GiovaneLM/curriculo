@@ -1,5 +1,5 @@
 import React from 'react';
-import foto from '../Imagens/cachorrinho1.jpg'
+import foto from '../Imagens/fotodogi.jpeg'
 
 function Header() {
     return (
