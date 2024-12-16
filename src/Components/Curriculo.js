@@ -5,7 +5,7 @@ function Curriculo() {
         <div>
             <ul>
                 <h1>Nome Completo: Giovane Limeira Martins</h1>
-                <a href="https://github.com/GiovaneLM">Meu Github</a>
+                <a href="https://github.com/GiovaneLM">Meu Github</a><br></br>
                 <a href="https://www.linkedin.com/in/giovane-limeira-martins/">Meu Linkdin</a>
                 <h2>Como Entrar em Contato:</h2>
 
